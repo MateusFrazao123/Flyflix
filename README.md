@@ -1,5 +1,6 @@
 # Flyflix
 
-Projeto com o intuito de ser uma pagína de seleção de filmes 
+## Projeto com o intuito de ser uma pagína de seleção de filmes 
 
-<div> img src="https://cdn.discordapp.com/attachments/1030536784976814131/1069461583287296100/Opera_Instantaneo_2023-01-30_003735_127.0.0.1.png"</div>
+![Opera Instantâneo_2023-01-30_003735_127 0 0 1](https://user-images.githubusercontent.com/80266733/215383038-e7018475-f4b3-4147-a496-21f471142efe.png)
+
