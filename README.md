@@ -9,7 +9,7 @@ Tecnologias utilizadas:📚
 <br>HTML<br>
 CSS<br>
 
-Link da Página : 📌
-https://courageous-licorice-d675ec.netlify.app
+Link da Página : 
+📌[https://bejewelled-melba-63aa07.netlify.app/#
 
 Obrigado pela atenção ! 😄
